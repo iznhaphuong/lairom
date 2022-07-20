@@ -14,10 +14,14 @@ a{
     font-size: 200%;
     color: rgb(255, 179, 0);
     position: fixed;
-    bottom: 0.7%;
-    right: 1.5%;
+    bottom: 5%;
+    right: 5%;
     display: none;
     cursor: pointer;
+    border: 3px solid rgb(255, 179, 0);
+    padding-left: .5%;
+    padding-right: .5%;
+    line-height: 0;
 }
 .blur{
     background-color: rgba(219, 176, 4, 0.55);
